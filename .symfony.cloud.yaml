@@ -1,0 +1,6 @@
+relationships:
+  database: "mydatabase:mysql"
+
+runtime:
+  extensions:
+    - pdo_mysql
